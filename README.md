@@ -12,6 +12,7 @@ Funkce:
  - pouze doplňování "textem", prozatím neexistuje možnost A,B,C...
  - open-source jen v případě, že se program dekompiluje (možná bude plný zdrojový kód zde.. někdy)
  - časový limit vždy na 2 minuty (dostatek pro každého)
+ - kontrola, zda byl soubor během přenosu poškozen (SHA512)
  - *a více*
  
  Potřebujete .NET Framework 4.7.2 a operační systém Windows 10 (testováno, určitě by šli i jiné verze, jako třeba win7 nebo win11)
