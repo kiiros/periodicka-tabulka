@@ -10,7 +10,7 @@ Funkce:
  - ukládaní aktualní volby vybraných řádků
  - náhodně generovaná cvičení (5 slov - prvků, 5 značek)
  - pouze doplňování "textem", prozatím neexistuje možnost A,B,C...
- - open-source jen v případě, že se program dekompiluje (možná bude plný zdrojový kód zde)
+ - open-source jen v případě, že se program dekompiluje (možná bude plný zdrojový kód zde.. někdy)
  - obnovení předchozí verze, pokud se Vám něco na nové verzi nelíbí
  - *a více*
  
