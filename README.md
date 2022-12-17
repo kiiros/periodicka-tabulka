@@ -15,3 +15,4 @@ Funkce:
  - *a více*
  
  Potřebujete .NET Framework 4.7.2 a operační systém Windows 10 (testováno, určitě by šli i jiné verze, jako třeba win7 nebo win11)
+![image](https://user-images.githubusercontent.com/88717056/208243762-3e72bb89-8d44-40d6-9a1c-8084609da440.png)
